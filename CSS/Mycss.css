@@ -151,8 +151,9 @@
 }
 #clients{
     display: flex;
-    justify-content:center;
+    justify-content:space-evenly;
     align-items: center;
+
 
     
 }
@@ -182,6 +183,7 @@
     justify-content: center;
     align-items: center;
     padding-bottom: 34px;
+
 }
 
 #contact-box input,#contact-box textarea{
@@ -190,6 +192,14 @@
     font-size: 1.1rem;
     border-radius: 9px;
 
+
+}
+#contact-box .btn1{
+    background-color: brown;
+    width: 103%;
+    border-radius: 13px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 
 }
 #contact-box form{
