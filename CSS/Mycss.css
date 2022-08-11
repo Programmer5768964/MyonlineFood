@@ -23,7 +23,8 @@
     opacity: 0.3;
 }
 #logo{
-    margin: 10px 34px;
+   height: 100px;
+   width: 100px;
 }
 #navbar #logo img{
     height: 100px;
